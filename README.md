@@ -30,7 +30,7 @@
 **Tools & Platforms:**  
 `Git` `GitHub` `Visual Studio` `VS Code` `Postman`
 
-**Cloud**
+**Cloud:**  
 `Azure` `AWS (Amazon Web Services)`
 
 ---
