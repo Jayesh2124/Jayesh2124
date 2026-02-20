@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Jayesh Sutar -->
 
 <h1 align="center">Hi 👋, I'm Jayesh Sutar</h1>
-<h3 align="center">Software Developer | .NET | Angular | React | SQL Server</h3>
+<h3 align="center">Senior Software Developer | .NET | Angular | React | SQL Server</h3>
 
 ---
 
@@ -19,16 +19,19 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`C#` `JavaScript` `TypeScript` `SQL` `Java`
+`C#` `JavaScript` `TypeScript` `SQL`
 
 **Frameworks & Libraries:**  
-`.NET Core` `Angular` `React` `Entity Framework`
+`.NET Core` `Angular` `React` `Entity Framework` `LINQ`
 
 **Databases:**  
 `SQL Server` `PostgreSQL`
 
 **Tools & Platforms:**  
 `Git` `GitHub` `Visual Studio` `VS Code` `Postman`
+
+**Cloud**
+`Azure` `AWS (Amazon Web Services)`
 
 ---
 
