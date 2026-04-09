@@ -50,11 +50,11 @@
 🔹 [**dev-portfolio**](https://github.com/Jayesh2124/dev-portfolio)  
 _A personal developer portfolio website showcasing my projects and skills._
 
-🔹 [**E-Commerce-App**](https://github.com/Jayesh2124/E-Commerce-App)  
-_A full-stack e-commerce application built with .NET Core and Angular._
+🔹 [**Lead-CRM**](https://github.com/Jayesh2124/LeadFlowWeb))  
+_A small scale CRM application tool to track daily email activities from user's towards client reach and proposals and clients response's information capturing regarding porjects, staffing or hirning candidates for their requriments._
 
-🔹 [**Task-Manager**](https://github.com/Jayesh2124/Task-Manager)  
-_A task management tool to track daily activities and productivity._
+🔹 [**E-Commerce-App**](https://github.com/Jayesh2124/MEAN_Stack_FrontEnd)  
+_A full-stack e-commerce application built with NodeJs, MongoDB and Angular._
 
 ---
 
@@ -72,6 +72,11 @@ _A task management tool to track daily activities and productivity._
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
